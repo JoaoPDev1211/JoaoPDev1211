@@ -17,7 +17,7 @@
 </td>
 <td><a href="mailto:JoaoPDev1211@gmail.com" target="_blank"><img src="https://github.com/JoaoPDev1211/JoaoPDev1211/blob/main/img/gmail2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://wa.me/5531980402103" target="_blank"><img src="https://github.com/JoaoPDev1211/JoaoPDev1211/blob/main/img/wpp2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://w.app/uGbDVk" target="_blank"><img src="https://github.com/JoaoPDev1211/JoaoPDev1211/blob/main/img/wpp2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="https://www.instagram.com/JoaoPDev1211/" target="_blank"><img src="https://github.com/JoaoPDev1211/JoaoPDev1211/blob/main/img/insta2.png?raw=true" width="50px" height="50px"/></a>
 </td>
