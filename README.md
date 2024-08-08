@@ -44,7 +44,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Joao Paulo</code>, tenho 27 anos, moro em BH e sou programador desde os 15 anos de idade. Atualmente sou <code>pAnalista De Sistemas</code> e cursando  Análise e Desenvolvimento de Sistemas.<br />
+<i><b>Olá</b> :wave:, sou o <code>Joao Paulo</code>, tenho 27 anos, moro em BH e sou programador desde os 15 anos de idade. Atualmente sou <code>Analista e Desenvolvedor De Sistemas</code> e cursando  Análise e Desenvolvimento de Sistemas.<br />
 </div>
 
 -----
