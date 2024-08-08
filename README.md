@@ -21,7 +21,7 @@
 </td>
 <td><a href="https://www.instagram.com/JoaoPDev1211/" target="_blank"><img src="https://github.com/JoaoPDev1211/JoaoPDev1211/blob/main/img/insta2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.linkedin.com/in/JoaoPDev1211/" target="_blank"><img src="https://www.linkedin.com/in/joao-paulo-veloso-324463223/" width="50px" height="50px"/></a>
+<td><a href="https://www.linkedin.com/in/joao-paulo-veloso-324463223/" target="_blank"><img src="" width="50px" height="50px"/></a>
 </td>
 </td>
 <!--<td><a href="https://slack.com/app_redirect?channel=UVD9N6VCL"><img src="https://github.com/JoaoPDev1211/JoaoPDev1211/blob/main/img/slack.png?raw=true" width="50px" height="50px"/></a>
